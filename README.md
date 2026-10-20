@@ -1,2 +1,2 @@
 # napcatch-support
-This is the support page for the watch app: NapCatch.
+This is the support page for the watchOS app: NapCatch.
